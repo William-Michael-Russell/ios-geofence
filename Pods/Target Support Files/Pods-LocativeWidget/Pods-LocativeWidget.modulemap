@@ -1,0 +1,6 @@
+framework module Pods_LocativeWidget {
+  umbrella header "Pods-LocativeWidget-umbrella.h"
+
+  export *
+  module * { export * }
+}

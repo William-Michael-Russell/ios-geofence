@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Jaalee Beacon</string>
+		<key>uuid</key>
+		<string>EBEFD083-70A2-47C8-9837-E7B5634DF524</string>
+		<key>minor</key>
+		<string></string>
+		<key>major</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Locative iBeacon Sample App</string>
+		<key>uuid</key>
+		<string>954FBC91-620E-4B5A-86F7-1F31A0054194</string>
+		<key>minor</key>
+		<string></string>
+		<key>major</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MiniBeacon / BlueBeacon</string>
+		<key>uuid</key>
+		<string>E2C56DB5-DFFB-48D2-B060-D0F5A71096E0</string>
+		<key>minor</key>
+		<string>0</string>
+		<key>major</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BEACONinside</string>
+		<key>uuid</key>
+		<string>F0018B9B-7509-4C31-A905-1A27D39C003C</string>
+		<key>minor</key>
+		<string></string>
+		<key>major</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Estimote</string>
+		<key>uuid</key>
+		<string>B9407F30-F5F8-466E-AFF9-25556B57FE6D</string>
+		<key>minor</key>
+		<string></string>
+		<key>major</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Roximity</string>
+		<key>uuid</key>
+		<string>8DEEFBB9-F738-4297-8040-96668BB44281</string>
+		<key>minor</key>
+		<string></string>
+		<key>major</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gimbal</string>
+		<key>uuid</key>
+		<string>11111111-2222-3333-4444-555555555555</string>
+		<key>minor</key>
+		<string>1</string>
+		<key>major</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Radius Networks</string>
+		<key>uuid</key>
+		<string>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6</string>
+		<key>minor</key>
+		<string>1</string>
+		<key>major</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Red Bear Lab</string>
+		<key>uuid</key>
+		<string>B0702881-A295-A8AB-F734-031A98A512D</string>
+		<key>minor</key>
+		<string></string>
+		<key>major</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

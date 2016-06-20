@@ -1,0 +1,6 @@
+framework module Pods_Locative {
+  umbrella header "Pods-Locative-umbrella.h"
+
+  export *
+  module * { export * }
+}

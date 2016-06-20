@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13A603" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="GFGeofence" representedClassName="GFGeofence" elementID="GFEvent" syncable="YES">
+        <attribute name="customId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="enterMethod" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="enterUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="exitMethod" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="exitUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="httpAuth" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="httpPassword" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="httpUser" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="radius" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="triggers" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="uuid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="GFGeofence" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

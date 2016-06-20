@@ -1,0 +1,6 @@
+framework module ObjectiveRecord {
+  umbrella header "ObjectiveRecord-umbrella.h"
+
+  export *
+  module * { export * }
+}

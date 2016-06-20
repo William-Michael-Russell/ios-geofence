@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  Locative
+
+  Created by Marcus Kida on 12.10.13.
+  Copyright (c) 2013 Marcus Kida. All rights reserved.
+*/
+
+"New Fence" = "New Fence";
+"Please configure your global url" = "Please configure your global url";
+"Select http-method" = "Select http-method";
+"Please chose the method which shall be used" = "Please chose the method which shall be used";
+"GET" = "GET";
+"POST" = "POST";
+"Notification" = "Notification";
+"OK" = "OK";
+"Note" = "Note";
+"To add more Geofences, you need to puchase the \"Unlimited Fences\" feature. Would you like to do so?" = "To add more Geofences, you need to puchase the \"Unlimited Fences\" feature. Would you like to do so?";
+"No" = "No";
+"Yes" = "Yes";
+"Error" = "Error";
+"There has been an error performing the purchase, please try again later." = "There has been an error performing the purchase, please try again later.";
+"Open-Source Licenses" = "Open-Source Licenses";
+"Success" = "Success";
+"Thank you for your purchase! You may now add as many fences as you like." = "Thank you for your purchase! You may now add as many fences as you like.";
+"There has been a problem performing your purchase, pease try again later." = "There has been a problem performing your purchase, pease try again later.";
+"Thank you! All your purchases have been restored!" = "Thank you! All your purchases have been restored!";
+"There has been a problem restoring your purchases, pease try again later." = "There has been a problem restoring your purchases, pease try again later.";
+"Unlock \"Unlimited Fences\"" = "Unlock \"Unlimited Fences\"";
+"\"Unlimited Fences\" unlocked!" = "\"Unlimited Fences\" unlocked!";
+"No iBeacon Preset" = "No iBeacon Preset";
+"Enter Address" = "Enter Address";
+"Use" = "Use";
+"Cancel" = "Cancel";
+"Unknown Location" = "Unknown Location";
+"No location found. Please refine your query." = "No location found. Please refine your query.";
+"Minor / Major value must not exceed: %d. Please change your Values." = "Minor / Major value must not exceed: %d. Please change your Values.";
+
+// GET / POST Requests
+"POST Success:" = "POST Success:";
+"POST Failure:" = "POST Failure:";
+"GET Success:" = "GET Success:";
+"GET Failure:" = "GET Failure:";
+
+// Disable Stats toggle
+"Anonymous statistics provide us with helpful info to improve the App, would you really like to diable it?" = "Anonymous statistics provide us with helpful info to improve the App, would you really like to diable it?";
+
+// Settings Version
+"Version" = "Version";
+
+// REMenu
+"Geofences" = "Geofences";
+"View and manage your Geofences" = "View and manage your Geofences";
+
+"Settings" = "Settings";
+"Change you global HTTP url, etc..." = "Change you global HTTP url, etc...";
+
+"Feedback / Support" = "Feedback / Support";
+"Something went wrong? Text us!" = "Something went wrong? Text us!";
+
+"Twitter" = "Twitter";
+"Follow @LocativeHQ at #Twitter!" = "Follow @LocativeHQ at #Twitter!";
+
+"This will open up Twitter. Ready?" = "This will open up Twitter. Ready?";
+"This will open up Facebook. Ready?" = "This will open up Facebook. Ready?";
+"This will open up %@. Ready?" = "This will open up %@. Ready?";
+
+"Please make sure to enable \"Background App Fetch\" inside your Device's Settings. This is required for the App to work flawlessly." = "Please make sure to enable \"Background App Fetch\" inside your Device's Settings. This is required for the App to work flawlessly.";
+
+// Cloud Signup ViewController
+"Your account has been created successfully! You have been logged in automatically." = "Your account has been created successfully! You have been logged in automatically.";
+"Your account has been created successfully! You may now sign in using the prvoided credentials." = "Your account has been created successfully! You may now sign in using the prvoided credentials.";
+"A user with the same Username / E-Mail address ist already existing. Please choose another one." = "A user with the same Username / E-Mail address ist already existing. Please choose another one.";
+"Please enter a Username and a Password which have a minimum of 5 chars." = "Please enter a Username and a Password which have a minimum of 5 chars.";
+"This will open up Safari and lead to our TOS. Sure?" = "This will open up Safari and lead to our TOS. Sure?";
+
+// Settings Cloud
+"Login successful! Your triggered geofences will now be visible in you Account at http://my.locative.io!" = "Login successful! Your triggered geofences will now be visible in you Account at http://my.locative.io!";
+"There has been a problem with your login, please try again!" = "There has been a problem with your login, please try again!";
+"This will open up Safari and lead you to the password recovery website. Sure?" = "This will open up Safari and lead you to the password recovery website. Sure?";
+
+// Backup
+"My Locative Backup" = "My Locative Backup";
+"You need to setup an Email account. Go to your device's settings into the mail section." = "You need to setup an Email account. Go to your device's settings into the mail section.";
+"Your Geofences (no iBeacons) will be exported as an ordinary GPX file, only location and UUID/Name as well as Description will be exported. Custom settings like radius and URLs will fall back to default." = "Your Geofences (no iBeacons) will be exported as an ordinary GPX file, only location and UUID/Name as well as Description will be exported. Custom settings like radius and URLs will fall back to default.";
+"Would you like to keep your existing Geofences?" = "Would you like to keep your existing Geofences?";
+"An error occured when trying to open our GPX file, maybe it's damaged?" = "An error occured when trying to open our GPX file, maybe it's damaged?";
+"Your GPX file has been sucessfully imported." = "Your GPX file has been sucessfully imported.";
+"There's a maximum limit of 20 Geofences per App, please remove some Geofences before adding new ones." = "There's a maximum limit of 20 Geofences per App, please remove some Geofences before adding new ones.";
+"Only %1$d of the %2$d Geofences could be imported due to the 20 Geofences limit." = "Only %1$d of the %2$d Geofences could be imported due to the 20 Geofences limit.";
+
+// Deletion
+"Really delete this Entry?" = "Really delete this Entry?";
+
+// Cloud Import
+"Would you like to add a new Geofence locally or import it from my.locative.io?" = "Would you like to add a new Geofence locally or import it from my.locative.io?";
+"Add locally" = "Add locally";
+"Import" = "Import";
+"No Geofences" = "No Geofences";
+"Add some Geofences at https://my.locative.io to get going." = "Add some Geofences at https://my.locative.io to get going.";
+
+// Cloud Backup
+"This Geofence will be sent to your my.locative.io Account, you may then use it on any other Device. Would you like to do this?" = "This Geofence will be sent to your my.locative.io Account, you may then use it on any other Device. Would you like to do this?";
+"Backup" = "Backup";
+"An error occured when backing up your Geofence, please try again." = "An error occured when backing up your Geofence, please try again.";
+"Your Geofence has been backed up successfully." = "Your Geofence has been backed up successfully.";

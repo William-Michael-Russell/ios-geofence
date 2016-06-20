@@ -1,0 +1,107 @@
+PODS:
+  - 1PasswordExtension (1.6.4)
+  - AFNetworking (2.6.2):
+    - AFNetworking/NSURLConnection (= 2.6.2)
+    - AFNetworking/NSURLSession (= 2.6.2)
+    - AFNetworking/Reachability (= 2.6.2)
+    - AFNetworking/Security (= 2.6.2)
+    - AFNetworking/Serialization (= 2.6.2)
+    - AFNetworking/UIKit (= 2.6.2)
+  - AFNetworking/NSURLConnection (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.2)
+  - AFNetworking/Security (2.6.2)
+  - AFNetworking/Serialization (2.6.2)
+  - AFNetworking/UIKit (2.6.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - DZNEmptyDataSet (1.4.1)
+  - Expecta (0.3.1)
+  - Fabric (1.6.7)
+  - Harpy (3.3.1)
+  - HexColors (2.3.0)
+  - INTULocationManager (3.0.1)
+  - iOS-GPX-Framework (0.0.2):
+    - TBXML (~> 1.5)
+  - KeychainAccess (2.3.4)
+  - MSDynamicsDrawerViewController (1.5.1)
+  - ObjectiveRecord (1.5.0):
+    - ObjectiveSugar
+  - ObjectiveSugar (1.1.0)
+  - PSTAlertController (1.1.0)
+  - Specta (0.2.1)
+  - SVProgressHUD (1.0)
+  - TBXML (1.5)
+  - TSMessages (0.9.13):
+    - HexColors (~> 2.3.0)
+
+DEPENDENCIES:
+  - 1PasswordExtension (~> 1.6.4)
+  - AFNetworking (~> 2.6.2)
+  - Crashlytics (~> 3.7.0)
+  - DZNEmptyDataSet (~> 1.4.1)
+  - Expecta
+  - Fabric (~> 1.6.7)
+  - Harpy (~> 3.3.1)
+  - INTULocationManager (~> 3.0.1)
+  - iOS-GPX-Framework (from `https://github.com/kimar/iOS-GPX-Framework`, commit `e2fd5b9`)
+  - KeychainAccess (~> 2.3.4)
+  - MSDynamicsDrawerViewController (~> 1.5.1)
+  - ObjectiveRecord (from `https://github.com/kimar/ObjectiveRecord`, commit `d1fbb19`)
+  - PSTAlertController (~> 1.1.0)
+  - Specta
+  - SVProgressHUD (~> 1.0)
+  - TSMessages (from `https://github.com/KrauseFx/TSMessages`, commit `e63f233`)
+
+EXTERNAL SOURCES:
+  iOS-GPX-Framework:
+    :commit: e2fd5b9
+    :git: https://github.com/kimar/iOS-GPX-Framework
+  ObjectiveRecord:
+    :commit: d1fbb19
+    :git: https://github.com/kimar/ObjectiveRecord
+  TSMessages:
+    :commit: e63f233
+    :git: https://github.com/KrauseFx/TSMessages
+
+CHECKOUT OPTIONS:
+  iOS-GPX-Framework:
+    :commit: e2fd5b9
+    :git: https://github.com/kimar/iOS-GPX-Framework
+  ObjectiveRecord:
+    :commit: d1fbb19
+    :git: https://github.com/kimar/ObjectiveRecord
+  TSMessages:
+    :commit: e63f233
+    :git: https://github.com/KrauseFx/TSMessages
+
+SPEC CHECKSUMS:
+  1PasswordExtension: 9f471645d378283cb88c6d4bf502e4381a42c0ad
+  AFNetworking: 7f317038a9710cabfa43ec56396b307b45df72ab
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  DZNEmptyDataSet: b6d8ef0e69a4347b70c642148453174dbf8817f1
+  Expecta: a354d4633409dd9fe8c4f5ff5130426adbe31628
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  Harpy: 1c3f286473c97db20a19dda87582331e951036bc
+  HexColors: 6ad3947c3447a055a3aa8efa859def096351fe5f
+  INTULocationManager: c27483113e1bbc5952ead6417f9b39824a240ebb
+  iOS-GPX-Framework: 7297860335a923bb5ea62b29b2691e803226da09
+  KeychainAccess: 3a21b6944b4f2a22653f091d770cf10374961a94
+  MSDynamicsDrawerViewController: 2874df90f5e9453dc7d4e32f8038b50615d4baa7
+  ObjectiveRecord: f290d17272e476b3c881300910e98284200c54b6
+  ObjectiveSugar: a6a25f23d657c19df0a0b972466d5b5ca9f5295c
+  PSTAlertController: cb21afcfa76c3229feec7db044afd4f60dab5892
+  Specta: 15a276a6343867b426d5ed135d5aa4d04123a573
+  SVProgressHUD: 46088807596a795cbcb4affd92cf3f13b6ab3dda
+  TBXML: 9f9dadb239f2f2af1dadb87fe43a0ce6e479379a
+  TSMessages: 6e403b790139636c15ab4f51946537095e03e79c
+
+COCOAPODS: 0.39.0

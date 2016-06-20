@@ -1,0 +1,6 @@
+framework module Pods_Visit {
+  umbrella header "Pods-Visit-umbrella.h"
+
+  export *
+  module * { export * }
+}

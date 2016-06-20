@@ -1,0 +1,139 @@
+
+/* Class = "IBUINavigationItem"; title = "Add Geofence"; ObjectID = "3H0-Om-2GN"; */
+"3H0-Om-2GN.title" = "Neuer Geofence";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "4qD-Dp-bLe"; */
+"4qD-Dp-bLe.placeholder" = "Benutzername";
+
+/* Class = "IBUIButton"; normalTitle = "Send Test-Request"; ObjectID = "6fI-bE-YgT"; */
+"6fI-bE-YgT.normalTitle" = "Test-Request senden";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Other"; ObjectID = "879-2k-8KR"; */
+"879-2k-8KR.headerTitle" = "Weiteres";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Global HTTP Settings"; ObjectID = "9TA-DF-o4S"; */
+"9TA-DF-o4S.headerTitle" = "Globale HTTP Einstellungen";
+
+/* Class = "IBUITextField"; placeholder = "http://yourserver.com/event.php"; ObjectID = "AOD-OW-mpQ"; */
+"AOD-OW-mpQ.placeholder" = "http://yourserver.com/event.php";
+
+/* Class = "IBUINavigationItem"; title = "Geofences"; ObjectID = "BAh-EN-Rnh"; */
+"BAh-EN-Rnh.title" = "Geofences";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "D66-2S-7uk"; */
+"D66-2S-7uk.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "HTTP Basic Authentication"; ObjectID = "EyG-Pj-s7G"; */
+"EyG-Pj-s7G.text" = "HTTP Basic Authentifizierung";
+
+/* Class = "IBUILabel"; text = "Trigger on Departure"; ObjectID = "G8I-2a-6qL"; */
+"G8I-2a-6qL.text" = "Auslösen bei Verlassen";
+
+/* Class = "IBUIBarButtonItem"; title = "Settings"; ObjectID = "Ges-ox-GvX"; */
+"DE4-aR-PFt.text" = "Einstellungen";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Radius and Location ID"; ObjectID = "GzM-Bo-f03"; */
+"GzM-Bo-f03.headerTitle" = "Radius und Location ID";
+
+/* Class = "IBUILabel"; text = "Notification on Success"; ObjectID = "Hxl-kn-E2h"; */
+"Hxl-kn-E2h.text" = "Benachrichtigung bei Erfolg";
+
+/* Class = "IBUIButton"; normalTitle = "POST"; ObjectID = "KDA-p1-q14"; */
+"KDA-p1-q14.normalTitle" = "POST";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "M8V-sR-LpK"; */
+"M8V-sR-LpK.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "Save"; ObjectID = "MYx-Mq-lBV"; */
+"MYx-Mq-lBV.title" = "Speichern";
+
+/* Class = "IBUITextField"; placeholder = "Custom Location ID"; ObjectID = "Ncz-t1-9GX"; */
+"Ncz-t1-9GX.placeholder" = "Eigene Location ID";
+
+/* Class = "IBUILabel"; text = "Disable anonymous statistics"; ObjectID = "SSq-3z-VvH"; */
+"SSq-3z-VvH.text" = "Deaktiviere anonyme Statistiken";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "ZW7-gQ-QdX"; */
+"ZW7-gQ-QdX.placeholder" = "Benutzername";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "ayv-na-ABx"; */
+"ayv-na-ABx.title" = "Einstellungen";
+
+/* Class = "IBUILabel"; text = "Notification on Failure"; ObjectID = "btJ-22-JKg"; */
+"btJ-22-JKg.text" = "Benachrichtigung bei Fehler";
+
+/* Class = "IBUIButton"; normalTitle = "Open-Source Licenses"; ObjectID = "cPC-Cx-wzZ"; */
+"cPC-Cx-wzZ.normalTitle" = "Open-Source Lizenzen";
+
+/* Class = "IBUISegmentedControl"; e7a-t9-lcY.segmentTitles[0] = "POST"; ObjectID = "e7a-t9-lcY"; */
+"e7a-t9-lcY.segmentTitles[0]" = "POST";
+
+/* Class = "IBUISegmentedControl"; e7a-t9-lcY.segmentTitles[1] = "GET"; ObjectID = "e7a-t9-lcY"; */
+"e7a-t9-lcY.segmentTitles[1]" = "GET";
+
+/* Class = "IBUITextField"; placeholder = "http://yourserver.com/geo.php"; ObjectID = "hJY-8T-bUd"; */
+"hJY-8T-bUd.placeholder" = "http://yourserver.com/geo.php";
+
+/* Class = "IBUIBarButtonItem"; title = "Save"; ObjectID = "lGw-of-CTn"; */
+"lGw-of-CTn.title" = "Speichern";
+
+/* Class = "IBUILabel"; text = "Trigger on Arrival"; ObjectID = "qtg-Bk-nve"; */
+"qtg-Bk-nve.text" = "Auslösen bei Ankunft";
+
+/* Class = "IBUILabel"; text = "HTTP Basic Authentication"; ObjectID = "t7n-tI-gah"; */
+"t7n-tI-gah.text" = "HTTP Basic Authentifizierung";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "tgZ-Vi-BSE"; */
+"tgZ-Vi-BSE.placeholder" = "Passwort";
+
+/* Class = "IBUITextField"; placeholder = "http://yourserver.com/geo.php"; ObjectID = "uG3-6y-gN3"; */
+"uG3-6y-gN3.placeholder" = "http://yourserver.com/geo.php";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "vmg-mC-0TT"; */
+"vmg-mC-0TT.placeholder" = "Passwort";
+
+/* Class = "IBUIButton"; normalTitle = "POST"; ObjectID = "wlq-uQ-MCW"; */
+"wlq-uQ-MCW.normalTitle" = "POST";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Notifications"; ObjectID = "xhz-9j-yMc"; */
+"xhz-9j-yMc.headerTitle" = "Benachrichtigungen";
+
+/* Class = "IBUITableViewSection"; headerTitle = "HTTP Push"; ObjectID = "yWz-y9-EDR"; */
+"yWz-y9-EDR.headerTitle" = "HTTP Push";
+
+/* Location */
+"7ws-mu-Oqu.headerTitle" = "Ort";
+"v30-nt-Tdj.normalTitle" = "Unbekannter Ort";
+
+/* Class = "IBUIButton"; normalTitle = "Feedback / Support"; ObjectID = "z9T-nJ-902"; */
+"z9T-nJ-902.normalTitle" = "Feedback / Support";
+
+"lsa-Cf-IyZ.text" = "Sound bei Benachrichtigung";
+
+// Cloud Signup ViewController
+"Z0l-np-cb3.placeholder" = "Benutzername";
+"UWQ-Tp-BQm.placeholder" = "E-Mail Adresse";
+"bIB-T0-BUx.placeholder" = "Passwort";
+"tcc-iU-q6z.normalTitle" = "Account erstellen";
+"MFw-CP-xlp.normalTitle" = "Nutzungsbedingungen";
+
+// Login in Settings
+"4kM-Gu-jQ3.placeholder" = "Benutzername";
+"o5g-w3-HEs.placeholder" = "Passwort";
+"czE-RA-CWx.normalTitle" = "Login";
+"PRr-9r-FMC.normalTitle" = "Neuen Account erstellen";
+"CEW-Ma-9TN.normalTitle" = "Password vergessen";
+"NLe-L4-COV.normalTitle" = "Abmelden";
+
+// Backup
+"KBC-Ar-0g0.normalTitle" = "Geofences als GPX exportieren";
+
+// iBeacon
+"qYP-mZ-vYn.placeholder" = "Eigene iBeacon ID";
+
+// Delete Button
+"hqC-Ed-pHA.normalTitle" = "Löschen";
+
+// Backup Button
+"thx-5B-4qM.normalTitle" = "In der Cloud sichern";
+
